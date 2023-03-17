@@ -1,0 +1,10 @@
+.metadata
+Backend/.settings
+Backend/.classpath
+Backend/.project
+FrontendStaff/.settings
+FrontendStaff/.classpath
+FrontendStaff/.project
+FrontendUsuarios/.settings
+FrontendUsuarios/.classpath
+FrontendUsuarios/.project
