@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="objetos.Evento"/>
-    <fullyQualifiedTypeName name="objetos.ClienteUsuario"/>
-    <fullyQualifiedTypeName name="objetos.Compra"/>
-    <fullyQualifiedTypeName name="es.deusto.ingenieria.sd.rmi.server.IServer"/>
-</qualifiedTypeNameHistroy>
